@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-native-community/segmented-control": "^2.2.2",
+    "@react-navigation/bottom-tabs": "^7.3.10"
+  }
+}
